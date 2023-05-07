@@ -1,0 +1,3 @@
+Mensaje: HOLA
+Tipo de mensaje: Original
+Clave: 5
