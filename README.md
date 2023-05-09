@@ -1,3 +1,3 @@
 # CriptografiaRSA
 
-## Trabajo Final de Mate Computacional
+## TF de Mate Computacional
